@@ -1,4 +1,4 @@
-// ES6 way:
+// ES2015 way:
 let greenArrow = {
   names: ['daniel', 'andrea', 'aaron'],
   isCool: 'is cool',
